@@ -57,6 +57,7 @@ ul{
 /* Main text */
 .main {
     margin-bottom: 50px;
+    margin-left: 1in;
 }
 
 .main .container{
