@@ -131,7 +131,8 @@ ul{
     font-style: italic;
     font-size: 1rem;
     display: block;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.3rem;
+    padding-top: 0.5rem;
 }
 .blog-text h2{
     font-family: 'Open sans';
